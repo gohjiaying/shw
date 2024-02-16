@@ -1,1 +1,1 @@
-This repository is for SES Cloud Homework
+This repository is for SES Cloud Homework.
